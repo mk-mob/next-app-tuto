@@ -5,7 +5,7 @@ import Link from "next/link";
 
 //SSGの場合
 // export async function getStaticProps({ params }) {
-//     const req = await fetch(`http://localhost:3000/${params.id}.json`);
+//     const req = await fetch(`https://vercel.com/mk-mob/next-app-tuto/${params.id}.json`);
 //     const data = await req.json();
   
 //     return {
